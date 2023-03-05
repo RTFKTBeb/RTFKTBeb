@@ -1,0 +1,4 @@
+Jarlan.vrm - Untouched Transforms. This will break in the VRM Model in OnCyber. You must zero out the transforms before export.
+Jarlan2.vrm - Zeroed Transforms. This will work in OnCyber but the model is small.
+Jarlan3.vrm - 1.5x Scale. This seems like the average height.
+Jarlan4.vrm - 2x Scale. Seems Tall.
